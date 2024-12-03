@@ -47,7 +47,11 @@
     {
       "name": "StikTech",
       "address": "https://ani.stik.tech"
-    }
+    },
+    {
+    "name": "Stevenp custom",
+    "address": "https://anisette-vszk.onrender.com"
+}
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
